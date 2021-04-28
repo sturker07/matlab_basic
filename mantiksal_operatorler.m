@@ -6,7 +6,7 @@ ilk_deger = 0;
 1 & 1 % ve mantiksal operator
 1 | 0 % veya mantiksal operator
 
-son_deger = ~ilk_deger % ~ deðil mantiksal operator
+son_deger = ~ilk_deger % ~ degil mantiksal operator
 
 % &&  ve || operatorleri
 
